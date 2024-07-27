@@ -4,7 +4,7 @@ profile-pic: assets/img/prof_pic.jpeg
 
 # social links
 github: https://github.com/omer38
-resume: assets/doc/Omer_CV_07_24.pdf
+resume: assets/doc/Omer_CV _07_24.pdf
 projects: show            # delete "show" or leave it blank to hide this icon
 contact: show            # delete "show" or leave it blank to hide this icon
 
@@ -15,13 +15,14 @@ phone: +90 534 646 09 42
 website: https://omer38.github.io/
 
 # about me
-first-paragraph: I am a research assistant at the <hightlight>Learning and Adaptive Robotics (LEARN) Lab</hightlight> affiliated with the <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse" target="_blank" rel="noopener">University of Texas at Arlington</a> under the guidance of <a href="https://www.uta.edu/academics/faculty/profile?username=huber" target="_blank" rel="noopener">Dr. Manfred Huber</a>, building upon the research I initiated during my undergraduate studies here. (◕▿◕)
-second-paragraph: I grew up in <a href="https://en.wikipedia.org/wiki/Saigon" target="_blank" rel="noopener">Saigon, Vietnam</a>, and was fortunate to spend my most memorable time at the <a href="https://en.wikipedia.org/wiki/VNU-HCM_High_School_for_the_Gifted" target="_blank" rel="noopener">VNU-HCM High School for the Gifted</a> (informatics program of 2020) and previously <a href="https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_%C4%90%E1%BA%A1i_Ngh%C4%A9a_High_School_for_the_Gifted" target="_blank" rel="noopener">TĐN Secondary School for the Gifted</a> (mathematics program of 2017) with very good friends - too many to name them here, where we played football (soccer) on concrete fields together afterschool.
+first-paragraph: Senior Electrical and Electronics Engineering Student at Bilkent University. 
+second-paragraph: I am currently focusing on building efficient AI agents with hands-on experience in deep neural networks. Also I am developing chatbots with sophisticated RAG pipelines.
+third-paragraph : NLP Engineer Intern @ Databoss
 
 research-interests:
-
-  - field: Robotic Perception
-    subfields: semantic scene understanding, perception for grasping
+  Research Interest
+  - field: LLMs
+    subfields: AI agents, RAG pipelines
   
-  - field: Robotic Manipulation
-    subfields: learning to grasp, manipulative visual-motor skills
+  - field: GANs
+    subfields: New GAN architectures
