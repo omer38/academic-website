@@ -2,7 +2,7 @@ projects:
 
   - title: SWaTGAN Sliding Window Attention for Efficient Image Generation
     system-name: 
-    gif:
+    gif: assets/img/model_arch.jpeg
     conference: CS485 Term Project Paper
     conference-web: 
     status:

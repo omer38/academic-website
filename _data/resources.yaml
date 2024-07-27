@@ -1,16 +1,5 @@
 introduction: all software releases of the above projects can also be found here!
 
-categories:
-
-  - data-filter: research
-    category-name: research
-
-  - data-filter: outreach
-    category-name: outreach
-  
-  - data-filter: misc
-    category-name: miscellaneous
-
 links:
 
   - git-api: https://api.github.com/repos/omer38/SWaTGAN

@@ -1,14 +1,13 @@
 mini-projects:
 
-  - title: Autonomous Waypoint Navigation with GPS and ArduRover
+  - title: Bird Species Classification
     system-name: 
-    gif: assets/img/demo_outdoor_nav.gif
-    event: UVS Design (Arlington, TX, U.S.)
+    gif: assets/img/dataset-card.jpg
+    event:
     event-web: 
-    team: Kevin Mathew, Jesus Garza Munoz, Benjamin Nguyen, <u>Khang Nguyen</u>.
+    team: Ömer Tuğrul, Mennan Gök, Selin Ataş, Gökay Balcı
     post: 
-    code: 
-    demo: https://youtu.be/5QHfGqPYY8Y
-    description: We design the rover platform with hardware-software integration for autonomous waypoint navigation using Here3 GPS and ArduRover for outdoor activities. The video demonstrates the rover's mission to go through 10 defined waypoints on the UTA campus through Mission Planner via wireless communication through the Hex cube (Pixhawk 2.1) controller.
-    prize: 
+    code: https://github.com/omer38/Bird-Species-Classification
+    demo: 
+    description: The Bird Species Classification Project, a term project for the Cs464- Introduction to Machine Learning course, is an academic initiative that explores the synergy between avian biodiversity and computational intelligence. 
 
