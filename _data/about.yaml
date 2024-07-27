@@ -19,7 +19,8 @@ first-paragraph: Senior Electrical and Electronics Engineering Student at Bilken
 second-paragraph: I am currently focusing on building efficient AI agents with hands-on experience in deep neural networks. Also I am developing chatbots with sophisticated RAG pipelines.
 third-paragraph : NLP Engineer Intern @ Databoss
 
-research-interests:
+research-interests: 
+
   - field: LLMs
     subfields: AI agents, RAG pipelines
   
