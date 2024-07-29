@@ -6,7 +6,7 @@ mini-projects:
     event:
     event-web: 
     team: Ömer Tuğrul, Mennan Gök, Selin Ataş, Gökay Balcı
-    post: assets/doc/GROUP3_CS464_FINAL_REPORT.pdf
+    post: assets/doc/GROUP3_CS464_FINAL_REPORT.pdf #post changed to Report
     code: https://github.com/omer38/Bird-Species-Classification
     demo: 
     description: The Bird Species Classification Project, a term project for the Cs464- Introduction to Machine Learning course, is an academic initiative that explores the synergy between avian biodiversity and computational intelligence. 
@@ -17,7 +17,6 @@ mini-projects:
     event:
     event-web: 
     team: Ömer Tuğrul
-    post: 
     code: https://github.com/omer38/CycleGAN
     demo: 
     description: Unofficial Pytorch implementation of ”Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks” paper. 
