@@ -5,8 +5,7 @@ profile-pic: assets/img/prof_pic.jpeg
 # social links
 github: https://github.com/omer38
 resume: assets/doc/Omer_CV _07_24.pdf
-projects: show            # delete "show" or leave it blank to hide this icon
-contact: show            # delete "show" or leave it blank to hide this icon
+projects: show            # delete "show" or leave it blank to hide this ico           # delete "show" or leave it blank to hide this icon
 
 # information for contact card
 dept: EEE @ Bilkent University
